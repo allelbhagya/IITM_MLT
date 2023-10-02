@@ -1,6 +1,7 @@
 # iitm_mlt
 notes / notebooks for machine learning techniques course
 
+Syllabus
 
 WEEK 1	Introduction; Unsupervised Learning - Representation learning - PCA
 
